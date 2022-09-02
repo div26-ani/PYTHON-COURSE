@@ -1,0 +1,11 @@
+# name= input("enter your name:")
+# college= input("where do you study:")
+# city= input("city name:")
+age= input("enter your age:")
+# animal= input("national animal of india:")
+# print(name,college,city,age,animal)
+# print(type(name),type(college),type(city),type(age),type(animal))
+
+print('TYPECASTING')
+age= int(age)
+print(age,type(age))
