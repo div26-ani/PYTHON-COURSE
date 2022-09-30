@@ -1,10 +1,11 @@
 print('IN OPERATOR')
+# IN operator with list operator
 names=['divya','vineeta','suneeta']
 print('divya' in names)
 print('ankit' in names)
 print('vineeta' in names)
 
-
+# In operator with string datatype
 message='once upon a time in mumbai, there was a lion'
 print('upon' in message)
 print('mumbai' in message)
